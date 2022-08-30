@@ -1,4 +1,4 @@
-# Epic-Game-Store-Free-Game-Notificatione
+# Epic-Game-Store-Free-Game-Notification
 
 ## Feature
 This program will scrape the free game information from Epic game store website then send you the free game of this week via Telegram bot.
