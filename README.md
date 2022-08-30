@@ -6,7 +6,7 @@ This program will scrape the free game information from Epic game store website 
 ## How to use it. 
 1. In order to send the notification to your own bot, you need to configure the Telegram bot. Read this link for the details. [Telegram-Bot-Push-Message](https://github.com/simonnchong/Telegram-Bot-Push-Message). If you don't wanna use Telegram bot, you may use Whatsapp, email, message or any other playforms. 
 
-2. You have to download the webdriver to make your Python program to control web browser. NOTE: Please download it according to your web browser version. Upzip the downloaded zip file then you will get a .exe, put it into a folder, set the folder path in the code on line 6 in main.py.
+2. You have to download the webdriver to make your Python program to control web browser. NOTE: Please download it according to your web browser version. Upzip the downloaded zip file then you will get a .exe, put it into a folder, set the folder path in the code on line 6 in main.py. `chrome_driver_path = "YOUR_WEB_DRIVER_PATH_HERE"`
 - [Google Chrome Webdriver](https://chromedriver.chromium.org/downloads)
 - [Mozila Firefox Webdriver](https://github.com/mozilla/geckodriver/releases/)
 - [Microsoft Edge Webdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
