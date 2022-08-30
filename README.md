@@ -8,7 +8,7 @@ This program will scrape the free game information from Epic game store website 
 
 2. You have to download the webdriver to make your Python program to control web browser. NOTE: Please download it according to your web browser version.
 - [Google Chrome Webdriver](https://chromedriver.chromium.org/downloads)
-- [Firefox Webdriver](https://github.com/mozilla/geckodriver/releases/)
+- [Mozila Firefox Webdriver](https://github.com/mozilla/geckodriver/releases/)
 - [Microsoft Edge Webdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
 Once you've done the the 2 steps of configuration, you may try to run this code in your ideal IDE/text editor.
