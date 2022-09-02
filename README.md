@@ -17,4 +17,8 @@ In order to have a better experience, you may host your code in somewhere else t
 ## Sample result
 The name and the thumbnail of the games will be sent to your Telegram.
 
-<img src="sample.png" width="800">
+<img src="sample1.png" width="800">
+
+<img src="sample2.png" width="800">
+
+<img src="sample3.png" width="800">
