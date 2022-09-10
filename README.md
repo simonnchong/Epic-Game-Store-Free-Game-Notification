@@ -11,7 +11,7 @@ This program will scrape the free game information from Epic game store website 
 - [Mozila Firefox Webdriver](https://github.com/mozilla/geckodriver/releases/)
 - [Microsoft Edge Webdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
 
-Once you've done the the 2 steps of configuration, you may try to run this code in your ideal IDE/text editor.
+Once you've done the 2 steps of configuration, you may try to run this code in your ideal IDE/text editor.
 In order to have a better experience, you may host your code in somewhere else to keep it executing for 24/7.
 
 ## Sample result
