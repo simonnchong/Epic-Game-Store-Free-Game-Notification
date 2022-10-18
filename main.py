@@ -14,7 +14,7 @@ driver = webdriver.Chrome(executable_path=chrome_driver_path, options=options)
 # driver.maximize_window()
 driver.get("https://store.epicgames.com/en-US/")
 
-free_game_section = driver.find_elements(By.CSS_SELECTOR, ".css-11xvn05") # get the free game section division
+free_game_section = driver.find_elements(By.CLASS_NAME, "css-11xvn05") # get the free game section division
 for free_game in free_game_section: # check the "free game" text
     print(free_game.text)
     
